@@ -1,13 +1,19 @@
 # NextCloudPI-local
 Just a private cloud storage at home, purposed like a NAS. Using this Raspberry Pi 400 that's collecting dust at home
+ 
 
-Equipment : 
-1. Raspberry Pi 400
-2. SD Card 128 GB for NextCloudPi OS
-3. HDD Toshiba 2,5" 1TB (used, salvaged from laptop)
-4. HDD Casing 2,5"
+#### 1. Prerequisites 
 
-Steps :
+- **Raspberry Pi**: Any model will work, but a Raspberry Pi 4 is recommended for better performance. 
+
+- **SD Card**: Minimum 16GB, but 32GB or larger is recommended. 
+
+- **Computer**: To flash the NextCloudPi image to the SD card. 
+
+- **Internet Connection**: For downloading the image and updates.
+
+
+  
 #### 2. Download NextCloudPi Image 
 
 - Visit the [NextCloudPi GitHub releases page](https://help.nextcloud.com/t/how-to-install-nextcloudpi/126308) and download the latest image for your Raspberry Pi model. 
