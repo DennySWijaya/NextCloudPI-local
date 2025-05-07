@@ -4,7 +4,7 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
 Equipment : 
 1. Raspberry Pi 400
 2. SD Card 128 GB for NextCloudPi OS
-3. HDD Toshiba 1TB (used, salvaged from laptop)
+3. HDD Toshiba 2,5" 1TB (used, salvaged from laptop)
 4. HDD Casing 2,5"
 
 Steps :
