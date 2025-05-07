@@ -65,9 +65,9 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
 
 - Use the admin panel to configure settings such as storage locations, user accounts, and security options.
 
-- Enable nc-datadir to move storage from SD Card to HDD.
-- Enable nc-prettyURL, can hide PHP process in the address bar to some extent.
-- Enable nc-static-ip, add with prepared IP Address
+     - Enable nc-datadir to move storage from SD Card to HDD.
+     - Enable nc-prettyURL, can hide PHP process in the address bar to some extent.
+     - Enable nc-static-ip, add with prepared IP Address
 
   
 
