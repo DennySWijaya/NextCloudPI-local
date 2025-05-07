@@ -18,7 +18,7 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
   
 #### 2. Download NextCloudPi Image 
 
-- Visit the [NextCloudPi GitHub releases page](https://help.nextcloud.com/t/how-to-install-nextcloudpi/126308) and download the latest image for your Raspberry Pi model. 
+- Visit the [NextCloudPi GitHub releases page](https://help.nextcloud.com/t/how-to-install-nextcloudpi/126308) and download the latest image matching Raspberry Pi 4 model. 
 
  
 
@@ -26,7 +26,7 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
 
 - Download and install **BalenaEtcher** from its official website. 
 
-- Open BalenaEtcher, select the downloaded NextCloudPi image, and your SD card. 
+- Open BalenaEtcher, select the downloaded NextCloudPi image, and the prepared SD card. 
 
 - Click "Flash!" to write the image to the SD card. 
 
@@ -34,15 +34,15 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
 
 #### 4. Insert SD Card into Raspberry Pi 
 
-- Insert the SD card into your Raspberry Pi and power it on. 
+- Insert the SD card into Raspberry Pi 400 and power it on. 
 
-- Wait for the initial setup to complete. This may take a few minutes. 
+- Wait for the initial setup to complete, may take a few minutes. 
 
  
 
 #### 5. Access the Web Interface 
 
-- Open a web browser and enter `https://nextcloudpi.local:4443` or the IP address of your Raspberry Pi followed by `:4443`. 
+- Open a web browser and enter `https://nextcloudpi.local:4443` or Raspberry Pi 400's IP Address followed by `:4443`. 
 
 - You may see a security warning about a self-signed certificate. Click "Advanced" and then "Proceed" to continue. 
 
@@ -52,7 +52,7 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
 
 - Follow the on-screen instructions to complete the setup wizard. 
 
-- You will be prompted to create an admin password for NextCloudPi and a login password for your NextCloud instance. 
+- Create an admin password for NextCloudPi and a login password for the NextCloud instance. 
 
  
 
@@ -60,7 +60,7 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
 
 - Access the NextCloudPi admin interface at `https://nextcloudpi:4443`. 
 
-- Use the admin panel to configure settings such as storage locations, user accounts, and security options. 
+- Use the admin panel to configure settings such as storage locations, user accounts, and security options.
 
   
 
