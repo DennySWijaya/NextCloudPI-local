@@ -4,9 +4,11 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
 
 #### 1. Prerequisites 
 
-- **Raspberry Pi**: Any model will work, but a Raspberry Pi 4 is recommended for better performance. 
+- **Raspberry Pi**: Any model will work, but a Raspberry Pi 4 is recommended for better performance.
+     - Used Raspberry Pi 400.
 
-- **SD Card**: Minimum 16GB, but 32GB or larger is recommended. 
+- **SD Card**: Minimum 16GB, but 32GB or larger is recommended.
+     - Used 64GB.
 
 - **Computer**: To flash the NextCloudPi image to the SD card. 
 
@@ -60,28 +62,10 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
 
 - Use the admin panel to configure settings such as storage locations, user accounts, and security options. 
 
- 
+  
 
-#### 8. Make NextCloud Publicly Accessible (Optional) 
+#### 8. Test Setup
 
-- If you want to access your NextCloud instance from outside your network, you'll need to set up port forwarding on your router and possibly use a Dynamic DNS service. 
-
-- Follow the instructions in the NextCloudPi documentation to configure port forwarding and DNS settings. 
-
- 
-
-#### 9. Enable Remote Access 
-
-- Ensure your Raspberry Pi is connected to the internet. 
-
-- Set up port forwarding on your router to forward port 443 (HTTPS) to your Raspberry Pi's IP address. 
-
-- Optionally, use a Dynamic DNS service to handle changing IP addresses. 
-
- 
-
-#### 10. Test Your Setup 
-
-- Try accessing your NextCloud instance from another device outside your network to ensure everything is working correctly. 
+- Access via `https://nextcloudpi.local`
 
  
