@@ -8,7 +8,7 @@ Equipment :
 4. HDD Casing 2,5"
 
 Steps :
-1. Create NextCloudPI install using Raspberry Pi Imager
+1. Create NextCloudPi install using BalenaEtcher
 2. Set up NextCloudPI
    a. Time date setting
    b. Storage setting (move from SD Card to USB HDD)
