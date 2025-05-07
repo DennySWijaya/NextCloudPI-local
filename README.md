@@ -75,7 +75,7 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
 
 - Allow other users to access Nextcloud instance.
      - Login using Admin panel, then click profile on the top right, and choose Account
-     - To make a new account, click 'New Account' and input the new account informations, then clcik 'Add new account' to ready the account.
+     - To make a new account, click 'New Account' and input the new account informations, then click 'Add new account' to ready the account.
      - To make a new group, click the '+' icon beside Groups, set the group name, and press enter or click arrow icon next to the text box.
 
 
