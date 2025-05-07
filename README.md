@@ -69,7 +69,17 @@ Just a private cloud storage at home, purposed like a NAS. Using this Raspberry 
      - Enable nc-prettyURL, can hide PHP process in the address bar to some extent.
      - Enable nc-static-ip, add with prepared IP Address
 
+
+
+#### 8. Create Users (and Groups)
+
+- Allow other users to access Nextcloud instance.
+     - Login using Admin panel, then click profile on the top right, and choose Account
+     - To make a new account, click 'New Account' and input the new account informations, then clcik 'Add new account' to ready the account.
+     - To make a new group, click the '+' icon beside Groups, set the group name, and press enter or click arrow icon next to the text box.
+
+
+- Groups allows multiple users to share the same resource in the same group.
   
-
-
+- Sharing folder an still be done by allowing sharing certain folders to certain users.
  
